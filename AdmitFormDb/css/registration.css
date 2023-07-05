@@ -1,0 +1,59 @@
+*{
+    margin: 0px ;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  .con {
+    padding-top: 20px;
+    box-shadow: 0px 0px 20px 0px rgb(167, 167, 167);
+  }
+  .logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  .gen {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .gen input {
+    width: 20%;
+    height: 20px;
+  }
+  .con .mar {
+    margin-top: 30px;
+  }
+  .t{
+    width: 99.9%;
+  }
+  .t  tr , td  {
+      text-align: center;
+  }
+  .t input {
+    border: none;
+    outline: none;
+  }
+  #btn {
+    margin-top: 50px;
+  }
+  .th {
+    height: 50px;
+    font-size: 20px;
+  }
+  .displayImage{
+          background-position: center;
+          background-size: cover;
+      }
+  .picUp {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .navL {
+position: relative;
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: rgb(93, 186, 155);
+font-size: 30px;
+}
